@@ -7,6 +7,7 @@ namespace SortingAlgorithm
         {
             /* 排序方法调用处 */
             Console.WriteLine("Hello World");
+            Console.ReadLine();
             Console.ReadKey();
             BubbltSort bubble = new BubbltSort();
              
